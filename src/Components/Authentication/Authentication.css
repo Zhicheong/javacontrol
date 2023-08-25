@@ -1,0 +1,24 @@
+.authentication {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .logo-container {
+    flex: 1;
+    padding: 2rem;
+  }
+  
+  .logo-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .form-container {
+    flex: 1;
+    padding: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
