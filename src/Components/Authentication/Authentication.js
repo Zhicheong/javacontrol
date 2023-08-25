@@ -7,7 +7,7 @@ const Authentication = ({ children }) => {
     <div className="auth-card">
       <div className="logo-container">
         {/* Your logo */}
-        <img src="javalogo.png" alt="logo"/>
+        <img src={javalogo} alt="logo"/>
       </div>
       <div className="form-container">
         {children}
