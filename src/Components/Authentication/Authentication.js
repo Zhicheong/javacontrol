@@ -4,9 +4,9 @@ import javalogo from '../../Assets/javalogo.png'
 
 const Authentication = ({ children }) => {
   return (
-    <div className="auth-card">
+    <div className="authentication">
       <div className="logo-container">
-        {/* Your logo */}
+        {/* logo */}
         <img src={javalogo} alt="logo"/>
       </div>
       <div className="form-container">
